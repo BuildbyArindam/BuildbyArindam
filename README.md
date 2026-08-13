@@ -52,7 +52,7 @@
   <img height="165" src="https://github-readme-stats-rho-seven-16.vercel.app/api/top-langs/?username=BuildbyArindam&layout=compact" />
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BuildbyArindam" />
+  <img src="./profile/streak.svg" />
 </p>
 ---
  
