@@ -76,8 +76,8 @@ exploring:        [Generative AI, Agentic AI]
 Predicts football player market value, then explains each prediction with SHAP.
 
 ```text
-player data ─▶ features ─▶ ┌ LSTM     ┐
-                           ├ XGBoost  ├─▶ market value ─▶ SHAP ─▶ Streamlit app
+                           ┌  LSTM    ┐
+player data ─▶ features ─▶├ XGBoost  ├─▶ market value ─▶ SHAP ─▶ Streamlit app
                            └ LightGBM ┘
 ```
 
